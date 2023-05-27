@@ -8,6 +8,7 @@ FOLLOW US
 ## KFC
 - Fries
 - Burger
+- Fish Burger
 
 ## Burger King
 - Fish Fingers
